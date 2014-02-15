@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">我的分享</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="properties_polyline">我的轨迹</string>
+    <string name="no_functions">不提供服务</string>
+    
+    <string name="addLocation">位置共享</string>
+    <string name="addLocation_description">显示当前位置并分享在线用户的位置信息</string>
+    <string name="requestUserTrack">查看轨迹</string>
+    <string name="requestUserTrack_description">显示用户的运动轨迹</string>
+
+</resources>
